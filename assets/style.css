@@ -25,6 +25,10 @@ body {
     align-items: center;
 }
 
+.third-container > div > img {
+    padding: 0rem 0.5rem;
+}
+
 .fourth-container {
     background-color: #ADD8E6;
     display: flex;
